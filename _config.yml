@@ -21,11 +21,11 @@ author: Aruzhan
 ###############################################
 
 navbar-links:
-  About Me: "Hello world!"
+  About Me: "Hello world!My name is Aruzhan. I'm studying in PKNU"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://aruzandatova-ui.github.io"
 
 ################
 # --- Logo --- #
@@ -51,21 +51,21 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
-#  medium: Datova Aruzhan
+  email: "aruzandatova@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  github: aruzandatova-ui
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  whatsapp: 87779998877
+  medium: Datova Aruzhan
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: DAtova Aruzhan
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: bbbb
+instagram: bbbb
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
